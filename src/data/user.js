@@ -17,7 +17,7 @@ const user = {
     {
       id: 2,
       name: "Kibbles N Bitz",
-      about: "Tinder for dogs",
+      about: "",
       technologies: ["React", "Redux"],
     },
     {
